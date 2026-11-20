@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "alg": "ES256",
+  "kid": "428678b882f28a79",
+  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"da6be319ea3bc4f1cdc098638275f6b9aa3e23f94613c76f7d7d3a1532bf8000\",\"size\":388468,\"fileCount\":40,\"requiresAsarReinstall\":false,\"changelog\":\"KupaDesk Antigravity 插件 v2.0.0 更新\",\"publishedAt\":\"2026-11-20T19:38:25.378Z\"}",
+  "signature": "+rap845j2lA2/2M8mdFmVTkP0Q7HbddsZi6uRQHGPoR+UN9RW/HsmXXxgLzNysr/6xASCJ6GzaF4a7Q5tq/ZZg=="
+}
