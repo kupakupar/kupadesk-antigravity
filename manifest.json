@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "alg": "ES256",
+  "kid": "428678b882f28a79",
+  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"6d3248fff70c92f3bf768b120a8e8aea24cd5a24f77b7edeeab6a691311d6619\",\"size\":394918,\"fileCount\":40,\"requiresAsarReinstall\":false,\"changelog\":\"KupaDesk v2.0.0：合并中文增强、上下文监控、右键打开位置、红框入口、按对话动态绑定顶层 systemInstruction 与 ES256 签名云更新\",\"publishedAt\":\"2026-11-20T06:32:53.315Z\"}",
+  "signature": "8skIQX5pdc6lJYMfh91AJZDcPM3vQp6P7z6jaKfjILKjj82FZE0RXXlcfR0ZDo7Xn4LJ5TXqxZRjyqQ2NyC62g=="
+}
