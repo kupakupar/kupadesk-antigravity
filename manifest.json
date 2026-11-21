@@ -2,6 +2,6 @@
   "format": 1,
   "alg": "ES256",
   "kid": "428678b882f28a79",
-  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"1a22a326662563cbb2ce69d6c26f06854298a60ec8c4f7d218d1f656fe4f07f9\",\"size\":400372,\"fileCount\":40,\"requiresAsarReinstall\":true,\"changelog\":\"适配 Antigravity 2.34.0 上下文监控 CSRF 获取机制，并补全 400+ 条 v2.34.0 汉化词条\",\"publishedAt\":\"2026-11-21T03:07:46.095Z\"}",
-  "signature": "xDQpDVuTDgXMLLb3In9G+d4MQziOOlgJ+RffjZauFOHloVomhlbZQZSuq0Z87MMLkJWL4/NZI8wsVE9WtbbQGw=="
+  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"39a2499b14ea3072b1a0f64366ed57cd6028f953ade8a25758031f1c9309f8c6\",\"size\":401052,\"fileCount\":40,\"requiresAsarReinstall\":true,\"changelog\":\"补全 v2.34.0 思考深度（Extra High 等）与编排器模型选择器汉化\",\"publishedAt\":\"2026-11-21T03:19:35.533Z\"}",
+  "signature": "TaJ6m3l0zuqR+5nLCftHGPIv3mGpYEjnv57HOvPJsD0Xk0rABdnrbzGyw6DQEtQ2k3pkAJDhqPOrc76Re6TJkQ=="
 }
