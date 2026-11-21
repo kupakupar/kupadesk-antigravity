@@ -2,6 +2,6 @@
   "format": 1,
   "alg": "ES256",
   "kid": "428678b882f28a79",
-  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"74ae8b62df79706803aa41bb02581a8664fea6b02073272d9d6b76bf2917bc52\",\"size\":387307,\"fileCount\":40,\"requiresAsarReinstall\":false,\"changelog\":\"KupaDesk Antigravity 插件 v2.0.0 更新\",\"publishedAt\":\"2026-11-20T20:19:23.269Z\"}",
-  "signature": "RW2/rirLP4ZeiHw9NG9tUcxveyNkm8CgR854BE0UAfw+HJn/4p7tidHwgHvnfErNQz3xyMlvTafOaluH8170mw=="
+  "payload": "{\"product\":\"kupadesk-antigravity\",\"version\":\"2.0.0\",\"minClientVersion\":\"\",\"downloadUrl\":\"kupadesk-v2.0.0.zip\",\"sha256\":\"1a22a326662563cbb2ce69d6c26f06854298a60ec8c4f7d218d1f656fe4f07f9\",\"size\":400372,\"fileCount\":40,\"requiresAsarReinstall\":true,\"changelog\":\"适配 Antigravity 2.34.0 上下文监控 CSRF 获取机制，并补全 400+ 条 v2.34.0 汉化词条\",\"publishedAt\":\"2026-11-21T03:07:46.095Z\"}",
+  "signature": "xDQpDVuTDgXMLLb3In9G+d4MQziOOlgJ+RffjZauFOHloVomhlbZQZSuq0Z87MMLkJWL4/NZI8wsVE9WtbbQGw=="
 }
